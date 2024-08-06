@@ -20,3 +20,7 @@
   <a href = "gabrielmoraes023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-moraes-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## contribuição grafica
+
+![snake gif](https://github.com/Gabriel-Moraes023/Gabriel-Moraes023/blob/output/github-contribution-grid-snake.svg)
